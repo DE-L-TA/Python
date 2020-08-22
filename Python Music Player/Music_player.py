@@ -28,13 +28,12 @@ volume_add_image=tk.PhotoImage(file="images//add_volume.png")
 volume_sub_image=tk.PhotoImage(file="images//sub_volume.png")
 mute_image=tk.PhotoImage(file="images//Mute.png")
 unmute_image=tk.PhotoImage(file="images//full_volume.png")
-about_image=tk.PhotoImage(file="images//info.png")
+
 searh_image=tk.PhotoImage(file="images//search.png")
 browse_image=tk.PhotoImage(file="images//dvd.png")
 play_image=tk.PhotoImage(file="images//play-button.png")
 pause_image=tk.PhotoImage(file="images//pause.png")
-forward_image=tk.PhotoImage(file="images//double-arrows.png")
-backward_image=tk.PhotoImage(file="images//backward.png")
+
 quit_image=tk.PhotoImage(file="images//exit.png")
 
 volume_stat=mute_image
